@@ -17,9 +17,9 @@ Hello, I’m Cagdas Bilgin, a software developer with a background in game devel
 **Bachelor's degree in Computer Engineering**, with a deep passion for AI engineering, software engineering and game development.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagdasbilgin1&show_icons=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cagdasbilgin1&show_icons=true" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdasbilgin1" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdasbilgin1" height="180" />
 </p>
 
 <img src="images/waves.svg" width="100%" height="100">
