@@ -2,7 +2,7 @@ const fs = require('fs');
 const https = require('https');
 
 const TOKEN = process.env.GH_TOKEN;
-const USERNAME = 'IvanMurzak';
+const USERNAME = 'cagdasbilgin1';
 
 function postGraphQL(query) {
   const options = {
