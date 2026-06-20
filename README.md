@@ -7,7 +7,6 @@
   <div >
     <a href="https://github.com/cagdasbilgin1"><img src="images/social/github.png" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/cagdasbilgin1"><img src="images/social/linkedin.png" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/caggdas/"><img src="images/social/instagram.png" alt="Instagram"/></a>
   </div>
   <br/>
 </div>
